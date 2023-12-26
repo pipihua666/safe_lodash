@@ -1,4 +1,4 @@
-import 'package:dart_lodash/dart_lodash.dart';
+import 'package:safe_lodash/safe_lodash.dart';
 import 'package:test/test.dart';
 
 void main() {

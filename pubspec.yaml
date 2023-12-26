@@ -1,7 +1,7 @@
-name: dart_lodash
+name: safe_lodash
 description: A modern Dart utility library delivering modularity, performance, & extras
 version: 0.0.1
-repository: https://github.com/pipihua666/dart_lodash
+repository: https://github.com/pipihua666/safe_lodash
 
 environment:
   sdk: ^3.0.6

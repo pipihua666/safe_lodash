@@ -1,6 +1,6 @@
-# Dart Lodash
+# Safe Lodash
 
-Dart Lodash is a Dart utility library inspired by JavaScript Lodash. It aims to provide a variety of helpful functions to make working with and manipulating data in Dart easier.
+Safe Lodash is a Dart utility library inspired by JavaScript Lodash. It aims to provide a variety of helpful functions to make working with and manipulating data in Dart easier.
 
 ## Installation
 
@@ -8,7 +8,7 @@ Add the following dependency to your Dart project's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  dart_lodash: ^0.0.1
+  safe_lodash: ^0.0.1
 ```
 
 Run `pub get` to install the dependency.
@@ -16,7 +16,7 @@ Run `pub get` to install the dependency.
 # Usage
 
 ```dart
-import 'package:dart_lodash/dart_lodash.dart';
+import 'package:safe_lodash/safe_lodash.dart';
 
 void main() {
 	// Example usage

@@ -1,4 +1,4 @@
-import 'package:dart_lodash/src/list/slice.dart';
+import 'package:safe_lodash/src/list/slice.dart';
 
 /// Creates an List of elements split into groups the length of `size`.
 /// If `List` can't be split evenly, the final chunk will be the remaining
