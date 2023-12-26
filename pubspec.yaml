@@ -1,6 +1,6 @@
 name: safe_lodash
 description: A modern Dart utility library delivering modularity, performance, & extras
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/pipihua666/safe_lodash
 
 environment:
